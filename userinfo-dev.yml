@@ -11,6 +11,9 @@ eureka:
 spring:
   application:
     name: userinfo
+ 
+  rabbitmq:
+    host: 39.96.160.110
     
   datasource:
     driverClassName: com.mysql.jdbc.Driver
