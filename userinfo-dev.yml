@@ -49,6 +49,6 @@ feign:
     enabled: true
 
 zby:
-  name: 赵博雅
+  name: 展玮璇
   age: 21
-  sex: 男
+  sex: 女
